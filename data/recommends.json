@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "name": "Eat'n Park",
+        "address": "849 Freeport Rd, Pittsburgh, PA 15238",
+        "cuisine": "American",
+        "website": "http://eatnpark.com",
+        "description": "Family-friendly diner chain serving up all-day comfort food & signature Smiley Cookies."
+    },
+    {
+        "id": "2",
+        "name": "Bravo! Italian Kitchen",
+        "address": "250 West Bridge St, West Homestead, PA 15120",
+        "cuisine": "Italian",
+        "website": "http://bravoitalian.com",
+        "description": "Upscale-casual Italian chain serving pasta, grilled dishes, pizza & cocktails amid Roman-ruin decor."
+    },
+    {
+        "id": "3",
+        "name": "The Egyptian",
+        "address": "1048 Loring Rd., Apt. No. B",
+        "cuisine": "Egyptian",
+        "website": "http://bravoitalian.com",
+        "description": "test"
+    },
+    {
+        "id": "4",
+        "name": "Taco Bell",
+        "address": " 825 Freeport Rd, Pittsburgh, PA 15238",
+        "cuisine": "Mexican",
+        "website": "http://tacobell.com",
+        "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos."
+    }
+]
